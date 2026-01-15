@@ -7,19 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [ATM Machine](https://search.app/iGKb6qhEUMXR931s8)
+- 🔭 I’m currently working on [C++ and other Languages](https://search.app/iGKb6qhEUMXR931s8)
 
-- 🌱 I’m currently learning **HTML CSS , JAVA script ,Phython.**
+- 🌱 I’m currently learning **C++, HTML CSS , JAVA script ,Phython.**
 
-- 👯 I’m looking to collaborate on [ATM Machine](https://search.app/iGKb6qhEUMXR931s8)
+- 👯 I’m looking to collaborate on [Projects](https://search.app/iGKb6qhEUMXR931s8)
 
-- 🤝 I’m looking for help with [ATM Machine](https://search.app/iGKb6qhEUMXR931s8)
+- 🤝 I’m looking for help with [Coding problems](https://search.app/iGKb6qhEUMXR931s8)
 
 - 👨‍💻 All of my projects are available at [https://search.app/iGKb6qhEUMXR931s8](https://search.app/iGKb6qhEUMXR931s8)
 
 - 📝 I regularly write articles on [soon be uploaded](soon be uploaded)
 
-- 💬 Ask me about **intsa : irenic._.saad**
+- 💬 Ask me about **intsagram : irenic._.saad**
 
 - 📫 How to reach me **hmmsaad19@gmail.com**
 
