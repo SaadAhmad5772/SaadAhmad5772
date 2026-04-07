@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [C++ and other Languages](https://search.app/iGKb6qhEUMXR931s8)
 
-- 🌱 I’m currently learning **C++, HTML CSS , JAVA script ,Phython.**
+- 🌱 I’m currently learning **C++, HTML CSS , JAVA script ,Python.**
 
 - 👯 I’m looking to collaborate on [Projects](https://search.app/iGKb6qhEUMXR931s8)
 
